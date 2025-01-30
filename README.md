@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100" src="https://www.securitylinkindia.com/files/2019/12/ibm-logo.gif">
+<img width="100" src="https://www.ibm.com/brand/experience-guides/developer/8f4e3cc2b5d52354a6d43c8edba1e3c9/02_8-bar-reverse.svg">
 <img width="100" src="https://i.postimg.cc/3JbrSHWX/etec-ra-metropolitana-sp-capital-da-zona-leste-cidade-a-e-carvalho-cor.png"> 
 </div>
 <br></br>
